@@ -505,6 +505,7 @@ a:focus{
 	position: relative;
 	z-index: 1;
 	text-align: center;
+	padding-top: 25px;
 }
 .header-banner img{
 	height: 150px;
